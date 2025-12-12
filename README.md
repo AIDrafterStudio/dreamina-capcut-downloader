@@ -1,6 +1,6 @@
-# ⚡ CapCut High-Res Asset Downloader
+# ⚡ Dreamina High-Res Asset Downloader
 
-A Chrome Extension that enables **one-click downloading of High-Resolution (1440p+) assets** from CapCut/Dreamina, bypassing the low-res previews.
+A Chrome Extension that enables **one-click bulk downloading of High-Resolution assets** from CapCut/Dreamina, bypassing the low-res previews.
 
 ![Icon](icon.png)
 
@@ -40,4 +40,5 @@ MIT
 <img width="1919" height="910" alt="dreamina_downloader_02" src="https://github.com/user-attachments/assets/a38d02ee-7756-45e8-a6f3-f9d7398d27f9" />
 <img width="383" height="505" alt="dreamina_downloader_03" src="https://github.com/user-attachments/assets/26753842-cfca-4967-81c8-8ea11df6f6e8" />
 <img width="397" height="607" alt="dreamina_downloader_04" src="https://github.com/user-attachments/assets/171efa74-d055-4dce-a975-db50e901fa5c" />
+
 
